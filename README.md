@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps:
 Here's how to get started with the application:
 
 ```bash
-python your_script.py
+streamlit run main.py
 ```
 
 ## What is .env.example?
