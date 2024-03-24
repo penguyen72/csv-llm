@@ -15,7 +15,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/csv-llm.git
+   git clone https://github.com/penguyen72/csv-llm.git
    ```
 
 2. Install the necessary dependencies:
