@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 - **Python Version**: This application is developed and tested with Python 3.9. Ensure that you have Python 3.9 installed on your machine. You can download Python 3.9 from [here](https://www.python.org/downloads/release/python-390/).
 
-## Getting Started
+## Installation
 
 To get a local copy up and running, follow these simple steps:
 
