@@ -42,4 +42,4 @@ The **.env.example** file is a template containing all the necessary environment
 
 ## Motivation
 
-Trying to learn LangChain Agents. Followed a tutorial by Alejandro AO.
+Trying to learn LangChain Agents. Followed a tutorial by **Alejandro AO**.
